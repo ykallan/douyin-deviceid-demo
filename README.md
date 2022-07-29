@@ -22,8 +22,8 @@ failed response
     "device_id": "0",
     "iid": "0",
     "uuid": "8612679568*****",
-    "openudid": "0700151849848979",
-    "register_response": "{\"server_time\":1659066167,\"device_id\":0,\"install_id\":0,\"device_id_str\":\"0\",\"install_id_str\":\"0\",\"new_user\":0}",
+    "openudid": "07001518498****",
+    "register_response": "{\"server_time\":165906****,\"device_id\":0,\"install_id\":0,\"device_id_str\":\"0\",\"install_id_str\":\"0\",\"new_user\":0}",
     "verify_response": "{\"message\":\"success\"}"
 }
 
